@@ -1,0 +1,22 @@
+{
+  "hello": "Hello",
+  "personal_form_data": "Personal Form Data",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "gender": "Gender",
+  "birthdate": "Birthdate",
+  "position": "Position",
+  "submit": "Submit",
+  "enter_name": "Please enter your name",
+  "enter_email": "Please enter your email",
+  "valid_email": "Please enter a valid email address",
+  "enter_password": "Please enter a password",
+  "password_length": "Password must be at least 6 characters",
+  "male": "Male",
+  "female": "Female",
+  "profile_screen": "Profile Screen",
+  "open_position": "Open Position on Map"
+
+
+}
